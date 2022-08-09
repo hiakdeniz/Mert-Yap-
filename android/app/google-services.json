@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418555589338",
+    "firebase_url": "https://mertyapi-85cdc-default-rtdb.firebaseio.com",
+    "project_id": "mertyapi-85cdc",
+    "storage_bucket": "mertyapi-85cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418555589338:android:7529364dc538287e8cabe3",
+        "android_client_info": {
+          "package_name": "com.example.mertyapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418555589338-4lk4ebsfpcml760n1t0grj8jpnl8crhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mertyapi",
+            "certificate_hash": "8ec82d8d8af894d1f9178759f2107d8bf7d01502"
+          }
+        },
+        {
+          "client_id": "418555589338-6gk82e3i14vu6aic59oubke15u9cuc2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPC8JeHnCvkGGbNEuq7AWV7xX6mTMqmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418555589338-6gk82e3i14vu6aic59oubke15u9cuc2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
